@@ -43,16 +43,16 @@ The goal of this project is to create a machine learning model capable of accura
     See the most relevant features for the modeling process
  8. Deep Learning :
     Develop and evaluate deep learning models
-    ANN Model 
-    LSTM Model
+    1) ANN Model
+    2) LSTM Model
  9. Machine Learning :
     Develop and evaluate machine learning models
-    Linear Regression
-    Decision Tree
-    Random Forest
-    Support Vector Regression
-    K-Nearest Neighbors
-    XGBoost
+    1) Linear Regression
+    2) Decision Tree
+    3) Random Forest
+    4) Support Vector Regression
+    5) K-Nearest Neighbors
+    6) XGBoost
 10. Testing :
     Best model selected is Decision Tree Regressor (Reason - R2 score is good, as well as MSE is less) 
 
