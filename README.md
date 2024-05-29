@@ -19,15 +19,15 @@ The goal of this project is to create a machine learning model capable of accura
 |9)|PowerConsumption_Zone3|The power consumption in Kilowatt-Hours in Power Zone 3|
 
  ## Steps performed
- 1. Import Libraries 
+ 1. Import Libraries : 
     Load the necessary Python libraries for data analysis
- 2. Import Data
+ 2. Import Data :
     Import the dataset containing the features and target variable   
- 3. Data Clean
+ 3. Data Clean :
     Check Null values, Duplicated values
- 4. Data Understanding
+ 4. Data Understanding :
     Perform exploratory data analysis to understand the distributions
- 5. Feature Engineering
+ 5. Feature Engineering :
     Created new features from Datetime column:
     1. Year
     2. Month
@@ -37,15 +37,15 @@ The goal of this project is to create a machine learning model capable of accura
     6. Date
     7. Time
     8. Week    
- 6. Data Visualizations
+ 6. Data Visualizations :
     Visualize the data to gain insights and detect trends    
- 7. Feature Selection
+ 7. Feature Selection :
     See the most relevant features for the modeling process
- 8. Deep Learning
+ 8. Deep Learning :
     Develop and evaluate deep learning models
     ANN Model 
     LSTM Model
- 9. Machine Learning
+ 9. Machine Learning :
     Develop and evaluate machine learning models
     Linear Regression
     Decision Tree
@@ -53,7 +53,7 @@ The goal of this project is to create a machine learning model capable of accura
     Support Vector Regression
     K-Nearest Neighbors
     XGBoost
-10. Testing
+10. Testing :
     Best model selected is Decision Tree Regressor (Reason - R2 score is good, as well as MSE is less) 
 
 
